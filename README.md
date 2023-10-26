@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://MuhammadAliHamza.io)
 <h1 align="center">Hi 👋, I'm Muhammad Ali Hamza</h1>
-<h3 align="center">I am Muhammad Ali Hamza, a Software Engineer with a strong background in the MERN stack. My focus is on creating dynamic and user-friendly applications using React for front-end and Node.js for back-end development</h3>
+<h3 align="center">I am a Software Engineer with a strong background in the MERN stack. My focus is on creating dynamic and user-friendly applications using React for front-end and Node.js for back-end development</h3>
 
 <img align ="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
